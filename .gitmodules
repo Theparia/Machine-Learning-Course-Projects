@@ -1,0 +1,15 @@
+[submodule "Bayes-Classifier-for-Breast-Cancer-Detection"]
+	path = Bayes-Classifier-for-Breast-Cancer-Detection
+	url = https://github.com/Theparia/Bayes-Classifier-for-Breast-Cancer-Detection.git
+[submodule "Polynomial-Regression"]
+	path = Polynomial-Regression
+	url = https://github.com/Theparia/Polynomial-Regression.git
+[submodule "Multi-Class-Logistic-Regression"]
+	path = Multi-Class-Logistic-Regression
+	url = https://github.com/Theparia/Multi-Class-Logistic-Regression.git
+[submodule "Perceptron-Iris-Classifier"]
+	path = Perceptron-Iris-Classifier
+	url = https://github.com/Theparia/Perceptron-Iris-Classifier.git
+[submodule "Iranian-Traditional-Music-Dastgah-Classifier"]
+	path = Iranian-Traditional-Music-Dastgah-Classifier
+	url = https://github.com/Theparia/Iranian-Traditional-Music-Dastgah-Classifier.git
